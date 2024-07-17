@@ -2,3 +2,22 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+p { COLOR:grey;}
+
+#about {
+  background-color: dimgrey;
+}
+
+#work {
+  background-color: darkgrey;
+}
+
+#contact {
+  background-color: grey;
+}
+
+ul {
+  list-style-type:none;
+}
